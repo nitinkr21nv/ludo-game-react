@@ -15,6 +15,14 @@ This is a simple Ludo move counter game built using React. It tracks the number 
 - HTML
 - CSS
 
+## How to Run
+1. Clone the repository
+2. Open the project folder
+3. Run `npm install`
+4. Run `npm run dev`
+5. Open in browser: http://localhost:5173/
+
+
 ## What I Learned
 - React useState
 - Event handling in React
